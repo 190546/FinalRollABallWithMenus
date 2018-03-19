@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "RollyPollyOllyOxenFree.data.unityweb",
+"asmCodeUrl": "RollyPollyOllyOxenFree.asm.code.unityweb",
+"asmMemoryUrl": "RollyPollyOllyOxenFree.asm.memory.unityweb",
+"asmFrameworkUrl": "RollyPollyOllyOxenFree.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
